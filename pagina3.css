@@ -1,13 +1,19 @@
 .dulce{
-    background-color: rgb(83, 100, 107);
+    background-color: white;
 }
-.elmerSantos{
-    textcolor: white
 
-}
 footer{
     text-align: center;
     padding: 127px;
     background-color: darkgray;
     color:white
+}
+.emely{
+    background-color: rgb(83, 142, 210);   
+}
+.card{
+    margin: 10px;
+}
+.darlyn{
+    background-color: darkgray;
 }
