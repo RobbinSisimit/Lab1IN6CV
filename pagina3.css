@@ -6,14 +6,24 @@ footer{
     text-align: center;
     padding: 127px;
     background-color: darkgray;
-    color:white
+    color:white;
+    text-align:justify ;
 }
 .emely{
-    background-color: rgb(83, 142, 210);   
+    background-color: white;  
 }
 .card{
     margin: 10px;
 }
 .darlyn{
     background-color: darkgray;
+    anchor-scope: 10px;
+}
+.wilmer{
+    background-color: black;
+    color: beige;
+}
+.fondo3{
+    background-color:rgb(13, 79, 155);
+    color: black;
 }
